@@ -1,5 +1,9 @@
 # Kube-Operator
 
+以下をもとにKube-Operatorを起動
+
+
+
 https://github.com/cdsl-research/Kube-Operator
 
 
