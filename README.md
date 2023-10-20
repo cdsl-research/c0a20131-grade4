@@ -2,6 +2,7 @@
 
 Kube-CollectorとはKube-Operatorのための監視エージェントです
 
+Kube-Operator: 
 
 ## 使い方
 step1
