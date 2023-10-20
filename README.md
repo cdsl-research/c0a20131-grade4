@@ -1,3 +1,6 @@
+# Kube-Operatorの使い方は以下を参照
+
+
 # Kube-Collectorの使い方
 
 Kube-CollectorとはKube-Operatorのための監視エージェントです
