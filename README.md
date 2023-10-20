@@ -1,4 +1,5 @@
-# Kube-Operatorの使い方は以下を参照
+# Kube-Operator
+https://github.com/cdsl-research/Kube-Operator
 
 
 # Kube-Collectorの使い方
