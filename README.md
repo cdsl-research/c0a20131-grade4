@@ -11,7 +11,7 @@ https://github.com/cdsl-research/Kube-Operator
 
 Kube-CollectorとはKube-Operatorのための監視エージェントです
 
-Kube-Operator: 
+Kube-Operatorと併用して使います．
 
 ## 使い方
 step1
